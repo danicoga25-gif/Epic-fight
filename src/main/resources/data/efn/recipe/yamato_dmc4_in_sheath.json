@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:dragon_egg"
+  },
+  "base": {
+    "item": "epicfight:uchigatana"
+  },
+  "addition": {
+    "item": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "efn:yamato_dmc4_in_sheath",
+    "count": 1
+  }
+}
